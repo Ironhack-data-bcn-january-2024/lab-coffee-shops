@@ -1,0 +1,567 @@
+{
+  "results": [
+    {
+      "fsq_id": "4fe21f0ee4b0f221477ed14a",
+      "categories": [
+        {
+          "id": 13009,
+          "name": "Cocktail Bar",
+          "short_name": "Cocktail",
+          "plural_name": "Cocktail Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1759,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.382606,
+          "longitude": 2.181541
+        },
+        "main": {
+          "latitude": 41.382565,
+          "longitude": 2.181517
+        },
+        "roof": {
+          "latitude": 41.382565,
+          "longitude": 2.181517
+        }
+      },
+      "link": "/v3/places/4fe21f0ee4b0f221477ed14a",
+      "location": {
+        "address": "Calle Consellers, 4",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Calle Consellers, 4, 08003 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08003",
+        "region": "Catalunya"
+      },
+      "name": "Collage Art & Cocktails Social Club",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "510af09de4b0ae0239449f00",
+      "categories": [
+        {
+          "id": 13009,
+          "name": "Cocktail Bar",
+          "short_name": "Cocktail",
+          "plural_name": "Cocktail Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2331,
+      "geocodes": {
+        "main": {
+          "latitude": 41.398037,
+          "longitude": 2.159761
+        },
+        "roof": {
+          "latitude": 41.398037,
+          "longitude": 2.159761
+        }
+      },
+      "link": "/v3/places/510af09de4b0ae0239449f00",
+      "location": {
+        "address": "Calle Santa Teresa, 1",
+        "address_extended": "Calle Corsega",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "Calle Corsega",
+        "formatted_address": "Calle Santa Teresa, 1 (Calle Corsega), 08012 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08012",
+        "region": "Catalunya"
+      },
+      "name": "Old Fashioned",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "56904e5d498eb2b8e8fdef64",
+      "categories": [
+        {
+          "id": 13009,
+          "name": "Cocktail Bar",
+          "short_name": "Cocktail",
+          "plural_name": "Cocktail Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 1599,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.383743,
+          "longitude": 2.183693
+        },
+        "main": {
+          "latitude": 41.383693,
+          "longitude": 2.183671
+        },
+        "roof": {
+          "latitude": 41.383693,
+          "longitude": 2.183671
+        }
+      },
+      "link": "/v3/places/56904e5d498eb2b8e8fdef64",
+      "location": {
+        "address": "Calle Rera Palau, 4",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Rera Palau, 4, 08003 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08003",
+        "region": "Catalunya"
+      },
+      "name": "Paradiso",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5373bf00498e01926086d0c6",
+      "categories": [
+        {
+          "id": 13006,
+          "name": "Beer Bar",
+          "short_name": "Beer Bar",
+          "plural_name": "Beer Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13010,
+          "name": "Dive Bar",
+          "short_name": "Dive Bar",
+          "plural_name": "Dive Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/divebar_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2144,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.3817,
+          "longitude": 2.173401
+        },
+        "main": {
+          "latitude": 41.381708,
+          "longitude": 2.173324
+        },
+        "roof": {
+          "latitude": 41.381708,
+          "longitude": 2.173324
+        }
+      },
+      "link": "/v3/places/5373bf00498e01926086d0c6",
+      "location": {
+        "address": "Calle Cardenal Casa\u00f1as, 7",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle Cardenal Casa\u00f1as, 7, 08002 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08002",
+        "region": "Catalunya"
+      },
+      "name": "K\u04d5lderkold",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5b6e2606fe63bd002c36a5c7",
+            "categories": [
+              {
+                "id": 13003,
+                "name": "Bar",
+                "short_name": "Bar",
+                "plural_name": "Bars",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "\u00c5 Bar"
+          }
+        ]
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4d0ce7e5801054814c6a1b96",
+      "categories": [
+        {
+          "id": 13025,
+          "name": "Wine Bar",
+          "short_name": "Wine Bar",
+          "plural_name": "Wine Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13347,
+          "name": "Tapas Restaurant",
+          "short_name": "Tapas",
+          "plural_name": "Tapas Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1582,
+      "geocodes": {
+        "main": {
+          "latitude": 41.384839,
+          "longitude": 2.179958
+        },
+        "roof": {
+          "latitude": 41.384839,
+          "longitude": 2.179958
+        }
+      },
+      "link": "/v3/places/4d0ce7e5801054814c6a1b96",
+      "location": {
+        "address": "Carrer de la Princesa, 14",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Carrer de la Princesa, 14, 08003 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08003",
+        "region": "Catalunya"
+      },
+      "name": "Can Cisa",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4adcda4ef964a5205a4021e3",
+      "categories": [
+        {
+          "id": 13025,
+          "name": "Wine Bar",
+          "short_name": "Wine Bar",
+          "plural_name": "Wine Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13347,
+          "name": "Tapas Restaurant",
+          "short_name": "Tapas",
+          "plural_name": "Tapas Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1667,
+      "geocodes": {
+        "main": {
+          "latitude": 41.383284,
+          "longitude": 2.181806
+        },
+        "roof": {
+          "latitude": 41.383284,
+          "longitude": 2.181806
+        }
+      },
+      "link": "/v3/places/4adcda4ef964a5205a4021e3",
+      "location": {
+        "address": "Pla\u00e7a de Santa Maria, 5",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Pla\u00e7a de Santa Maria, 5, 08003 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08003",
+        "region": "Catalunya"
+      },
+      "name": "La Vinya del Senyor",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b646ff9f964a52011b32ae3",
+      "categories": [
+        {
+          "id": 13025,
+          "name": "Wine Bar",
+          "short_name": "Wine Bar",
+          "plural_name": "Wine Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13347,
+          "name": "Tapas Restaurant",
+          "short_name": "Tapas",
+          "plural_name": "Tapas Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2612,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.40289,
+          "longitude": 2.157192
+        },
+        "main": {
+          "latitude": 41.402844,
+          "longitude": 2.157227
+        },
+        "roof": {
+          "latitude": 41.402844,
+          "longitude": 2.157227
+        }
+      },
+      "link": "/v3/places/4b646ff9f964a52011b32ae3",
+      "location": {
+        "address": "Vallfogona, 12",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Vallfogona, 12, 08012 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08012",
+        "region": "Catalunya"
+      },
+      "name": "Viblioteca",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "55c8dea5498e157e0d14b7af",
+      "categories": [
+        {
+          "id": 13029,
+          "name": "Brewery",
+          "short_name": "Brewery",
+          "plural_name": "Breweries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/brewery_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2690,
+      "geocodes": {
+        "main": {
+          "latitude": 41.407459,
+          "longitude": 2.15806
+        },
+        "roof": {
+          "latitude": 41.407459,
+          "longitude": 2.15806
+        }
+      },
+      "link": "/v3/places/55c8dea5498e157e0d14b7af",
+      "location": {
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "08024 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08024",
+        "region": "Catalunya"
+      },
+      "name": "La Rovira",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4b638223f964a520707f2ae3",
+      "categories": [
+        {
+          "id": 13009,
+          "name": "Cocktail Bar",
+          "short_name": "Cocktail",
+          "plural_name": "Cocktail Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 2649,
+      "geocodes": {
+        "main": {
+          "latitude": 41.389615,
+          "longitude": 2.157902
+        },
+        "roof": {
+          "latitude": 41.389615,
+          "longitude": 2.157902
+        }
+      },
+      "link": "/v3/places/4b638223f964a520707f2ae3",
+      "location": {
+        "address": "Aribau, 86",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "formatted_address": "Aribau, 86, 08036 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08036",
+        "region": "Catalunya"
+      },
+      "name": "Tandem Cocktail Bar",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "529a11a1498e116143c8203d",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13347,
+          "name": "Tapas Restaurant",
+          "short_name": "Tapas",
+          "plural_name": "Tapas Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13387,
+          "name": "Winery",
+          "short_name": "Winery",
+          "plural_name": "Wineries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3459,
+      "geocodes": {
+        "main": {
+          "latitude": 41.385903,
+          "longitude": 2.149395
+        },
+        "roof": {
+          "latitude": 41.385903,
+          "longitude": 2.149395
+        }
+      },
+      "link": "/v3/places/529a11a1498e116143c8203d",
+      "location": {
+        "address": "Proven\u00e7a, 85",
+        "admin_region": "Catalu\u00f1a",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Proven\u00e7a, 85, 08029 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08029",
+        "region": "Catalunya"
+      },
+      "name": "Senyor Vermut",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 41.3977461,
+          "longitude": 2.1876744
+        },
+        "radius": 22000
+      }
+    }
+  }
+}
